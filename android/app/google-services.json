@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "855351712840",
+    "project_id": "bimbel-app-dc47f",
+    "storage_bucket": "bimbel-app-dc47f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855351712840:android:09da66efdb52cff2750c7d",
+        "android_client_info": {
+          "package_name": "com.bimbel.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9kbxrlSq2sPXJL9xzCo6J1APFLDIusLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
