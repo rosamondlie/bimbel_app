@@ -1,4 +1,4 @@
-package com.example.bimbel_app
+package com.bimbel.app
 
 import io.flutter.embedding.android.FlutterActivity
 
